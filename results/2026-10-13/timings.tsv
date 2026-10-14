@@ -1,0 +1,48 @@
+brew-cold-jq	9613	0
+brew-warm-jq	5328	0
+pour-cold-jq	1127	0
+pour-warm-jq	6	0
+brew-cold-wget	52078	0
+brew-warm-wget	46171	0
+pour-cold-wget	4774	0
+pour-warm-wget	291	0
+brew-cold-tree	7563	0
+brew-warm-tree	4250	0
+pour-cold-tree	686	0
+pour-warm-tree	4	0
+brew-cold-ripgrep	15823	0
+brew-warm-ripgrep	10408	0
+pour-cold-ripgrep	1429	0
+pour-warm-ripgrep	11	0
+brew-cold-fd	7402	0
+brew-warm-fd	3700	0
+pour-cold-fd	847	0
+pour-warm-fd	5	0
+brew-cold-bat	42857	0
+brew-warm-bat	37879	0
+pour-cold-bat	4470	0
+pour-warm-bat	273	0
+brew-cold-sqlite	16014	0
+brew-warm-sqlite	11189	0
+pour-cold-sqlite	2549	0
+pour-warm-sqlite	6	0
+brew-cold-python@3.13	51953	0
+brew-warm-python@3.13	47456	0
+pour-cold-python@3.13	5918	0
+pour-warm-python@3.13	239	0
+brew-cold-node	111521	0
+brew-warm-node	100862	0
+pour-cold-node	6678	0
+pour-warm-node	700	0
+brew-cold-ffmpeg	193209	0
+brew-warm-ffmpeg	176825	0
+pour-cold-ffmpeg	8109	0
+pour-warm-ffmpeg	2397	0
+brew-search json (mean of 3)	794.3	0
+pour-search json (mean of 20)	7.5	0
+brew-info jq (mean of 3)	600.7	0
+pour-info jq (mean of 20)	9.2	0
+brew-outdated (mean of 3)	645.7	0
+pour-outdated (mean of 20)	5.1	0
+brew-list (mean of 3)	18.0	0
+pour-list (mean of 20)	5.4	0
