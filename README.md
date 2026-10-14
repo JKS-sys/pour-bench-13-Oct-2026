@@ -15,6 +15,8 @@ bash bench.sh jq ffmpeg          # your own set
 POUR_ONLY=1 bash bench.sh        # no Homebrew on this machine
 ```
 
+> ⭐ **If Pour saves you time, star this repository** — stars are how other people find it.
+
 ## Protocol
 
 Every run starts from nothing, so the comparison is honest:
@@ -80,5 +82,5 @@ Raw timings: `results/2026-10-13/timings.tsv`. Re-run with `bash bench.sh`.
 <!-- licence -->
 ## Licence
 
-Copyright © 2026 **Jagadeesh Kumar S**. All rights reserved. Source-available under the [Pour licence](https://github.com/JKS-sys/pour-13-Oct-2026/blob/main/LICENSE). Homebrew is a trademark of its owners; the comparison is made with respect and with the same bottles.
+Copyright © 2026 **Jagadeesh Kumar S**. All rights reserved. Source-available under the [Pour licence](https://github.com/JKS-sys/pour-13-Oct-2026/blob/main/LICENSE).
 <!-- /licence -->
